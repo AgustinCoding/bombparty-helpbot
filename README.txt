@@ -23,7 +23,7 @@ How to Use the BombParty Bot:
 
 
 Contributors:
-Owner   -->  AgustinCode: GitHub
+Owner   -->  SophieCodingg: GitHub
 Author  -->  justbrowsing37: GitHub
 
 
